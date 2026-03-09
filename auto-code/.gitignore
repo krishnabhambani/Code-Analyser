@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Local configuration and secrets
+.env
+
+# Vector database storage
+vectorstore/
+
+# Downloaded GitHub repositories
+repos/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
